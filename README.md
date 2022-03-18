@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicholas-camarda, an MD/PhD student (Exp. Grad. 2026) at Tufts University working in the Jaffe Lab of the Molecular Cardiology Research Institute.
 - 👀 I’m interested in machine learning applications to biology and medicine, and statistical methodology!
-- 🌱 I’m currently learning statistical process control for tailcuff blood pressure analysis
+- 🌱 I’m working on a project now to understand whether/how vascular cells respond differently or similarly to cancer cells after targeted cancer therapy
 - 💞️ I’m looking to collaborate on any project that can leverage R or Python expertise :) 
 
 <!---
